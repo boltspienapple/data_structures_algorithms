@@ -1,6 +1,6 @@
 #  Way of Solving Problems
 ## First thing to solve a problem is:
-    Make sure to understand a problem </br>
+    Make sure to understand a problem 
 **Why to understand Problem**
     1. It helps in creating a logic for the code</br>
     2. For choosing a better algorithm</br>
