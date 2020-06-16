@@ -8,8 +8,8 @@
     
     Solution:
     Inputs ------>  Process  ------> Outputs
-    retur(ing) number is better than printing it so can be used in multiple purposes in computation, if printed hard to use for anything else
-        
+    return(ing) number is better than printing it so can be used in multiple purposes in computation, if printed hard to use for anything else
+
 ### Why to understand Problem
     1. It helps in creating a logic for the code
     2. For choosing a better algorithm
