@@ -5,8 +5,9 @@
     Understand what are the outputs
     Find the relation between Inputs and Outputs
     
-
-    Inputs ------> Process ------> Outputs
+    
+    
+    **Inputs** ------>**Process** ------> **Outputs**
     
 ### Why to understand Problem
     1. It helps in creating a logic for the code
