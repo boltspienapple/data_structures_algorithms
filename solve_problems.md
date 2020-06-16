@@ -1,1 +1,1 @@
-# H1 Way of Solving Problems
+#  Way of Solving Problems
