@@ -33,6 +33,8 @@ It may also increase in different rate sometimes based on the algorithms used.</
 **O(n) -- Big O of n notaion**</br>
 O - Order of the function</br>
 n - represents the length of your function</br>
+
+
     for i in range(n):
         print("Hello")
     the for loop runs only once so it is n
