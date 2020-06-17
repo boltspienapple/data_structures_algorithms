@@ -62,9 +62,9 @@ n - represents the length of your function</br>
     O(nlog(n))
 ### Scenarios
 There are three cases for any problem.</br>
-Best Case</br>
-Average Case</br>
-Worst Case</br>
+**Best Case**</br>
+**Average Case**</br>
+**Worst Case**</br>
 Example</br>
 
     If we want to find a letter in the Alphabets then these are the following cases.
