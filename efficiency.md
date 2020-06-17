@@ -66,6 +66,7 @@ Best Case</br>
 Average Case</br>
 Worst Case</br>
 Example</br>
+
     If we want to find a letter in the Alphabets then these are the following cases.
     We can find starting itself means first search -- O(1) This is the best case
     If we are running out of luck then we would search 26 times -- O(26) The worst case
