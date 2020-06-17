@@ -52,7 +52,7 @@ n - represents the length of your function</br>
     if n = 2 hello is printed 4 times
     if n = 3 hello is printed 9 times
 
-*n is always an algebraic expession*
+*n is always an algebraic expession*</br>
 
     examples of  some algebraic functions
     O(n)
