@@ -28,3 +28,24 @@ This is called Quantifing Efficiency</br>
     Order : Rate of increase of an algorithm is called as Order
 As Input size increases to an algorithm  the required time to run an algorithm also increases</br>
 It may also increase in different rate sometimes based on the algorithms used.</br>
+
+### Notation O(n)
+**O(n) -- Big O of n notaion**</br>
+O - Order of the function</br>
+n - represents the length of your function</br>
+    for i in range(n):
+        print("Hello")
+    the for loop runs only once so it is n
+    if n = 1 hello is printed 1 time
+    if n = 2 hello is printed 2 times
+    if n = 3 hello is printed 3 times
+
+    for i in range(n):
+        for i in range(n):
+            print("hello")
+
+    here there are 2 for loops that means we will run it twice so n^2(n square)
+    here the output would be 
+    if n = 1 hello is printed 1 time
+    if n = 2 hello is printed 4 times
+    if n = 3 hello is printed 9 times
