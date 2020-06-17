@@ -53,6 +53,7 @@ n - represents the length of your function</br>
     if n = 3 hello is printed 9 times
 
 *n is always an algebraic expession*
+
     examples of  some algebraic functions
     O(n)
     O(n^2)
