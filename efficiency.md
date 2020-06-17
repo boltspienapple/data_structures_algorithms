@@ -4,6 +4,7 @@
     Space : How much storage space required to run the program
     Time : How much time does it takes to run the program
     Generally complexity depend on space and time.
+    Processor runs ~Billion instructions per second
 ## Algorithm
     Series of steps described to solve a problem
     It is the rough flow process to solve a problem
@@ -23,7 +24,7 @@ From the above example and example_1 returns same output</br>
 But the **example** is faster than **example_1**</br>
 The reason is *example* function *adds 100 twice* but *example_1* function *adds 2, 100 times*</br>
 This is called Quantifing Efficiency</br>
-#### Input Size and Efficiency
+### Input Size and Efficiency
     Order : Rate of increase of an algorithm is called as Order
 As Input size increases to an algorithm  the required time to run an algorithm also increases</br>
 It may also increase in different rate sometimes based on the algorithms used.</br>
