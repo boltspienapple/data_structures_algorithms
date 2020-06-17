@@ -37,7 +37,7 @@ n - represents the length of your function</br>
 
     for i in range(n):
         print("Hello")
-    the for loop runs only once so it is n
+    the for loop runs only once so the Order is n
     if n = 1 hello is printed 1 time
     if n = 2 hello is printed 2 times
     if n = 3 hello is printed 3 times
@@ -46,7 +46,7 @@ n - represents the length of your function</br>
         for i in range(n):
             print("hello")
 
-    here there are 2 for loops that means we will run it twice so n^2(n square)
+    here there are 2 for loops that means we will run it twice so the Order is n^2(n square)
     here the output would be 
     if n = 1 hello is printed 1 time
     if n = 2 hello is printed 4 times
@@ -60,3 +60,13 @@ n - represents the length of your function</br>
     O(n^3)
     O(log(n))
     O(nlog(n))
+### Scenarios
+There are three cases for any problem.</br>
+Best Case</br>
+Average Case</br>
+Worst Case</br>
+Example</br>
+If we want to find a letter in the Alphabets then these are the following cases.</br>
+    We can find starting itself means first search -- O(1) This is the best case
+    If we are running out of luck then we would search 26 times -- O(26) The worst case
+    The remaing would be the average - O(n)
