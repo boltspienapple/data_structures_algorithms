@@ -11,11 +11,12 @@
 *For a problem there may be different algorithms but some are more efficient than others*
 
 ### Quantifying Effieciency
+Example
     def example(n):
         for i in range(2):
             n += 100
         return n
-
+Example_1
     def example_1(n):
         for i in range(100):
             n += 2
