@@ -75,7 +75,7 @@ Example</br>
     The remaing would be the average - O(n)
 
 ### Cheat Sheet
-    (https://www.bigocheatsheet.com/)
+    <https://www.bigocheatsheet.com/>
     (https://wiki.python.org/moin/TimeComplexity)
 
 ## Space Efficiency
