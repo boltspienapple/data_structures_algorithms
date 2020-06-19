@@ -10,6 +10,8 @@
     It is the rough flow process to solve a problem
 *For a problem there may be different algorithms but some are more efficient than others*
 
+## Time Complexity
+
 ### Quantifying Effieciency
     def example(n):
         for i in range(2):
@@ -71,3 +73,19 @@ Example</br>
     We can find starting itself means first search -- O(1) This is the best case
     If we are running out of luck then we would search 26 times -- O(26) The worst case
     The remaing would be the average - O(n)
+
+### Cheat Sheet
+    https://www.bigocheatsheet.com/
+    https://wiki.python.org/moin/TimeComplexity
+
+## Space Efficiency
+Same notation is used for space efficiency also.
+In space efficiency **datatypes of the variables we use and their allocated space requirments**</br>
+
+Examples</br>
+    
+    char   - 1 byte
+    bool   - 1 byte
+    int    - 4 bytes
+    float  - 4 bytes
+    double - 8 bytes

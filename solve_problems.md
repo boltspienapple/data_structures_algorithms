@@ -28,3 +28,4 @@
     4. Think about the algorithm that best suits to solve the problem
     5. Solve the Problem
     6. Don't optimize Prematurely
+    
