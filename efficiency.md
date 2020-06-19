@@ -75,12 +75,13 @@ Example</br>
     The remaing would be the average - O(n)
 
 ### Cheat Sheet
-    <https://www.bigocheatsheet.com/>
-    (https://wiki.python.org/moin/TimeComplexity)
+ https://www.bigocheatsheet.com/</br>
+ https://wiki.python.org/moin/TimeComplexity
 
 ## Space Efficiency
 Same notation is used for space efficiency also.
 In space efficiency **datatypes of the variables we use and their allocated space requirments**</br>
+
 
 Examples</br>
     
