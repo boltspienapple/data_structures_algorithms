@@ -21,4 +21,7 @@ Infinite loop can also be called as a recursion.</br>
         
         print(power_of_2(n))
 
-        In the above example we get the power of 2 power any number and once the n becomes equal to zero then the it return value 1. Otherwise the condition runs again and again untill the condition is met.
+        In the above example we get the power of 2 power any
+        number and once the n becomes equal to zero then the
+        it return value 1. Otherwise the condition runs
+        again and again untill the condition is met.

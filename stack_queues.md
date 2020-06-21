@@ -13,7 +13,9 @@ A stack is a basic data structure that can be logically thought of as a linear s
     so it is also known as LIFO
 
     LIFO - Last in First Out 
-    since the last element added will be on top of the stack so we can remove only that but can't access the element below it before removing them.
+    since the last element added will be on top of the stack
+    so we can remove only that but can't access the element 
+    elow it before removing them.
 
 ## Queues
 Queue is similar to stack but here the **element added first is removed first**</br>
