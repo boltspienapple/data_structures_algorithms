@@ -15,7 +15,7 @@ A tree is a nonlinear data structure, compared to arrays, linked lists, stacks a
 
     Internal Node: Parent node is also called as Internal Node
     Height of a Node : Number of edges between it and the furthest leaf on the tree
-</br>
+
 *Leaf has height ZERO*</br>
 
 
