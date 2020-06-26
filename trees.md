@@ -39,6 +39,12 @@ Should we traverse all its descendants or traverse everything at same level firs
 ## Depth First Search
 Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.</br>
 
+## Breadth First Search
+Breadth First Search starts at the root and it visits it children on second level then their children untill we visit every leaf</br>
+So its called as Level Order Tree</br>
+We start at the left side most time</br>
+From Example below BFS is D,B,E,A,C,F 
+
 Example </br>
 
                         D
