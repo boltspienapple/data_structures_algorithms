@@ -76,3 +76,14 @@ Example </br>
 Parents have atmost Two Children</br>
 From Example we need to search an element in the tree and we have to go through each and every element</br>
 So it is Linear Search and O(n) is efficiency</br>
+## Binary Search Tree
+
+    BSTs (Binary Search Tree) are sorted so every value on
+    the left of a particular node is smaller than it and
+    every value on the right of a pariticular node is larger
+    than it.
+    We can easily perforn search, delete and insert options
+    very easily
+    Searching is height of the tree so its efficiency is 
+    log(n)
+    BST Complication : unbalanced tree is the worst case scenario of the BST
