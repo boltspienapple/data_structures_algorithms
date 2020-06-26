@@ -65,3 +65,8 @@ Example </br>
     all subtrees, then finally processing the root
     From Example
     Post-Order Traversal is A,C,B,F,E,D
+
+## Binary Trees
+Parents have atmost Two Children</br>
+From Example we need to search an element in the tree and we have to go through each and every element</br>
+So it is Linear Search and O(n) is efficiency</br>
