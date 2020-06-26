@@ -26,3 +26,15 @@ A tree is a nonlinear data structure, compared to arrays, linked lists, stacks a
 
 **Each Node can only have 1 parent but a parent can have any number of children**</br>
 **Exception : Root node has no parent**
+## Tree Traversal
+Trees aren't linear so how to traverse????</br>
+Should we traverse left or right first ?</br>
+Should we traverse one subtree or  one section of the tree including parent?</br>
+Should we traverse all its descendants or traverse everything at same level first???
+**Confused No need to worry. There are so many ways to traverse**</br>
+
+    DFS(Depth First Search) - Where children nodes are priority
+    BFS(Breadth First Search) - Visiting everything on same level. Its also called as Level Order Tree
+
+## Depth First Search
+Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
